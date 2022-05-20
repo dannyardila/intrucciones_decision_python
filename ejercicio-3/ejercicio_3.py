@@ -20,7 +20,7 @@ if (a<b):
        r= a % 2
        if (r==0):
         cant_num=cant_num+1
-        a=a+1
+    a=a+1
     print(cant_num)
 
 # Output
